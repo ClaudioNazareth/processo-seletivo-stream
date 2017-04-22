@@ -42,10 +42,10 @@ public static char firstChar(Stream input) {
 
 # Resolução
 
-Foi criado a Inteface Java **Stream** confome o enunciado e uma implementação **StreamImpl** 
+Foi criado a Inteface Java **Stream** confome o enunciado e uma implementação **StreamImpl**. 
 Esta Interface recebe uma String como parametro na sua construção que será usada no algoritimo para busca da primeira 
 **vogal** não repetida.
-Toda o algoritimo para encontrar o caracter esta contido dentro da classe java **PrimeiroCaracterNaoRepetido** no métodp
+Todo o algoritimo para encontrar o caracter esta contido dentro da classe java **PrimeiroCaracterNaoRepetido** no métodp
 estático **encontraPrimeiraVogalNaoRepetida**
 
 Dentro do pacote de testes encontra -se classe **PrimeiroCaracterNaoRepetidoTest** a qual testa 8 cenários , incluindo se foram
